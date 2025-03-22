@@ -2,8 +2,8 @@
 
 Welcome to my GitHub! I'm a passionate developer and researcher working on deep learning, real-time systems, and embedded AI.  
 - 🚀 Building **real-time AI prototypes**  
-- 🧠 Exploring **computer vision & LSTMs**  
-- 🔧 Tinkering with **Raspberry Pi & robotics**
+- 🧠 Exploring **software developing languages**  
+- 🔧 Tinkering with **Arduino, Raspberry Pi, & robotics**
 
 ### 🏎️ What Drives Me  
 - I love building **AI-powered applications** that run efficiently on embedded devices.  
@@ -11,6 +11,7 @@ Welcome to my GitHub! I'm a passionate developer and researcher working on deep 
 - Always learning, always experimenting!
 
 ---
+
 # 💻 Tech Stack:
 
 ### Programming Languages:
@@ -36,6 +37,7 @@ Welcome to my GitHub! I'm a passionate developer and researcher working on deep 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=Michael-1120&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
