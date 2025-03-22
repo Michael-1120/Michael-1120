@@ -39,3 +39,6 @@ Welcome to my GitHub! I'm a passionate developer and researcher working on deep 
 [![](https://visitcount.itsvg.in/api?id=Michael-1120&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 🌐 Connect With Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-julius-moredo-5722ab1b0/)
